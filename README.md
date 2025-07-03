@@ -21,6 +21,9 @@ Agent-Flight 是一个利用Dubbo-go微服务框架和seata-go分布式事务框
   🎞️AI应用开发框架：**Eino**  ：https://github.com/cloudwego/eino  
 ![image](https://github.com/user-attachments/assets/12b194e2-0cd3-4ef2-b17a-7e49edf9d9c8)![image](https://github.com/user-attachments/assets/d9018f30-435d-42ec-baa1-f8d80c2b5369)
 
+### 贡献方式​  
+Fork 仓库并创建功能分支​  
 
+提交 PR 时标注关联模块（如feat: agent-flight-router）​  
 
-
+欢迎提交 Issue 反馈需求或 BUG  
