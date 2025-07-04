@@ -1,6 +1,6 @@
-# Agent-Flight
+# Dubbo-gomall
 ### 🚀 项目概览  
-Agent-Flight 是一个利用Dubbo-go微服务框架和seata-go分布式事务框架以及dubbo-go-pixiu高性能网关实现的一个高并发机票秒杀服务，除此之外，Agent-filght还基于Eino框架实现了智能客服服务，包括RAG，MCP，muitl-Agent等等技术。  
+Dubbo-gomall 是一个利用Dubbo-go微服务框架和seata-go分布式事务框架以及dubbo-go-pixiu高性能网关实现的一个分布式电商系统，除此之外，Dubbo-gomall还基于Eino框架实现了智能客服服务，包括RAG，MCP，muitl-Agent等等技术。  
 ### 🌐 生态  
   **子项目链接​**  
   
